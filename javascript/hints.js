@@ -37,6 +37,7 @@ titles = {
 
     "Skip": "Stop processing current image and continue processing.",
     "Interrupt": "Stop processing images and return any results accumulated so far.",
+    "Generate": "[Shift + Enter] from prompt",
     "Save": "Write image to a directory (default - log/images) and generation parameters into csv file.",
 
     "X values": "Separate values for X axis using commas.",
